@@ -8,7 +8,7 @@ Our team is currently working on a project focused on Face Image Retrieval using
 
 ## 1.2. Team Members
 
-|         NAME         |   ID   | % CONTRIBUTE |   Ghi chú   |
+|         NAME         |   ID   |  CONTRIBUTE |   ROLE   |
 |:-------------------:|:--------:|:----------:|:-----------:|
 |   Trần Mai Chí Tâm  | 21280047 |     25%    | Leader |
 |  Ngô Ngọc Hà Khanh  | 21280019 |     25%    |             |
