@@ -1,11 +1,4 @@
-**Project: Face Image Retrieval Using Deep Learning Models**
-
----
-
-
-**Nhóm KTLT: Khanh Tâm Lâm Thư**
-
-**Lớp: 21KDL1**
+**MULTILBAEL CLASSIFICATION USING PYTORCH**
 
 # 1. Information
 
@@ -15,7 +8,7 @@ Our team is currently working on a project focused on Face Image Retrieval using
 
 ## 1.2. Team Members
 
-|         Tên         |   MSSV   | % đóng góp |   Ghi chú   |
+|         NAME         |   ID   | % CONTRIBUTE |   Ghi chú   |
 |:-------------------:|:--------:|:----------:|:-----------:|
 |   Trần Mai Chí Tâm  | 21280047 |     25%    | Leader |
 |  Ngô Ngọc Hà Khanh  | 21280019 |     25%    |             |
